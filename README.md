@@ -1,4 +1,13 @@
-### Hi there 👋
+### Ori Olson 
+I'm a **Product Designer** located in **Brooklyn, NY**📍
+
+**I like to...**
+- 🧑‍🍳 Eat good food 
+- ✈️ Travel 
+- 🛹 Skate 
+- 💫 Obsess over new hobbies 
+
+I <3 my pets
 
 <!--
 **oriolson/oriolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
