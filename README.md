@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Profile Banner - Responsive to Dark Mode](https://raw.githubusercontent.com/oriolson/oriolson/main/.github/assets/profile-banner.svg#gh-light-mode-only)
-![Profile Banner - Dark Mode](https://raw.githubusercontent.com/oriolson/oriolson/main/.github/assets/profile-banner-dark.svg#gh-dark-mode-only)
+![Profile Banner - Responsive to Dark Mode](https://raw.githubusercontent.com/oriolson/oriolson/copilot/fix-95c47106-d26b-43bb-aeb9-3293be835c52/.github/assets/profile-banner.svg#gh-light-mode-only)
+![Profile Banner - Dark Mode](https://raw.githubusercontent.com/oriolson/oriolson/copilot/fix-95c47106-d26b-43bb-aeb9-3293be835c52/.github/assets/profile-banner-dark.svg#gh-dark-mode-only)
 
 </div>
 
@@ -35,9 +35,9 @@ I ❤️ my pets — they're the best companions for design sessions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oriolson/oriolson/main/.github/assets/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oriolson/oriolson/main/.github/assets/stats-light.svg">
-    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/oriolson/oriolson/main/.github/assets/stats-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oriolson/oriolson/copilot/fix-95c47106-d26b-43bb-aeb9-3293be835c52/.github/assets/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oriolson/oriolson/copilot/fix-95c47106-d26b-43bb-aeb9-3293be835c52/.github/assets/stats-light.svg">
+    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/oriolson/oriolson/copilot/fix-95c47106-d26b-43bb-aeb9-3293be835c52/.github/assets/stats-light.svg">
   </picture>
 </div>
 
