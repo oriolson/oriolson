@@ -1,0 +1,52 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .banner-bg {
+      fill: #0d1117;
+    }
+    .main-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 42px;
+      font-weight: 700;
+      fill: #f0f6fc;
+    }
+    .subtitle-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      fill: #8b949e;
+    }
+    .design-element {
+      fill: #58a6ff;
+      opacity: 0.15;
+    }
+    .gradient-bg {
+      stop-color: #21262d;
+    }
+    .gradient-end {
+      stop-color: #161b22;
+    }
+  </style>
+  
+  <!-- Background with subtle gradient -->
+  <defs>
+    <linearGradient id="darkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" class="gradient-bg"/>
+      <stop offset="100%" class="gradient-end"/>
+    </linearGradient>
+  </defs>
+  
+  <rect fill="url(#darkGradient)" width="800" height="200" rx="12"/>
+  
+  <!-- Decorative elements with dark theme colors -->
+  <circle class="design-element" cx="650" cy="50" r="30"/>
+  <circle class="design-element" cx="720" cy="120" r="20"/>
+  <circle class="design-element" cx="680" cy="160" r="15"/>
+  
+  <!-- Subtle border -->
+  <rect fill="none" stroke="#30363d" stroke-width="1" width="800" height="200" rx="12"/>
+  
+  <!-- Main content -->
+  <text class="main-text" x="50" y="80">Ori Olson</text>
+  <text class="subtitle-text" x="50" y="110">Product Designer • Brooklyn, NY 📍</text>
+  <text class="subtitle-text" x="50" y="140">Creating beautiful, user-centered experiences</text>
+</svg>
